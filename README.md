@@ -4,3 +4,4 @@
 settumeout also is an example of callback 
 👉callback Hell🔥:Nested callback stacjed below one another forming a pyramid stucture,
 noteL donot use paranthesis in callback function use instead arrow function
+👉Promises: to solve the callback hell🔥 problem
